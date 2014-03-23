@@ -1,0 +1,23 @@
+{
+  "name": "flexgrid",
+  "version": "0.0.0",
+  "description": "Just a grid based on flex-box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerpeterson/flexgrid.git"
+  },
+  "keywords": [
+    "flexbox",
+    "css"
+  ],
+  "author": "github.com/ptb",
+  "license": "UNKNOWN",
+  "bugs": {
+    "url": "https://github.com/tylerpeterson/flexgrid/issues"
+  },
+  "homepage": "https://github.com/tylerpeterson/flexgrid"
+}
